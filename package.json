@@ -1,6 +1,6 @@
 {
   "name": "crc",
-  "version": "3.8.0",
+  "version": "3.8.1",
   "description": "Module for calculating Cyclic Redundancy Check (CRC) for Node.js and the Browser.",
   "keywords": [
     "crc"
@@ -44,7 +44,7 @@
   "bugs": "https://github.com/alexgorbatchev/node-crc/issues",
   "repository": {
     "type": "git",
-    "url": "git://github.com/alexgorbatchev/node-crc.git"
+    "url": "https://github.com/alexgorbatchev/node-crc.git"
   },
   "license": "MIT",
   "dependencies": {
